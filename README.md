@@ -48,5 +48,5 @@ Hackintosh EFI for AMD Ryzen 5 1600; RX570.
 - https://github.com/AMD-OSX/AMD_Vanilla
 - https://dortania.github.io/OpenCore-Desktop-Guide
 
-## Scrernshot
+## Screenshot
 ![BIG](pic/home.png)
