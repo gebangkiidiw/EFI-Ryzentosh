@@ -51,3 +51,4 @@ Hackintosh EFI for AMD Ryzen 5 1600; RX570.
 
 ## Screenshot
 ![BIG](pic/home.png)
+![BIG](pic/montereyhome.png)
