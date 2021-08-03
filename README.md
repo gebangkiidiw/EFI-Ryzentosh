@@ -49,4 +49,4 @@ Hackintosh EFI for AMD Ryzen 5 1600; RX570.
 - https://dortania.github.io/OpenCore-Desktop-Guide
 
 ## Scrernshot
-![BIG](pic/home.jpeg)
+![BIG](pic/home.png)
