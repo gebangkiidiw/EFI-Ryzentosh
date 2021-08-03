@@ -4,6 +4,7 @@
 <img src="pic/big-sur.png" width="150"/>
 
 # Ryzentosh
+##### Download EFI: [Releases](https://github.com/GebangKiidiw/EFI-Ryzentosh/releases)
 
 Hackintosh EFI for AMD Ryzen 5 1600; RX570.
 
@@ -46,3 +47,6 @@ Hackintosh EFI for AMD Ryzen 5 1600; RX570.
 - https://forum.amd-osx.com/
 - https://github.com/AMD-OSX/AMD_Vanilla
 - https://dortania.github.io/OpenCore-Desktop-Guide
+
+## Scrernshot
+![BIG](pic/home.jpeg)
