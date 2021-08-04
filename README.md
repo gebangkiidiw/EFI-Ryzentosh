@@ -1,9 +1,9 @@
 
-[![macOS version](https://img.shields.io/badge/macOS-11.5.1-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
+[![macOS version](https://img.shields.io/static/v1?label=MacOS-BigSur&message=11.5.1&color=success)](https://www.apple.com/id/macos/big-sur/) [![macOS version](https://img.shields.io/static/v1?label=MacOS-Monterey&message=12.0&color=blueviolet)](https://www.apple.com/id/macos/monterey-preview/) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
 
 <img src="pic/big-sur.png" width="150"/>
 
-# Ryzentosh Big Sur & Monterey
+# Ryzentosh Big Sur & Monterey Beta
 ##### Download EFI: [Releases](https://github.com/GebangKiidiw/EFI-Ryzentosh/releases)
 
 Hackintosh EFI for AMD Ryzen 5 1600; RX570.
@@ -39,6 +39,8 @@ Hackintosh EFI for AMD Ryzen 5 1600; RX570.
 - [x] iMessage / FaceTime / iCloud
 - [x] FileVault
 - [x] Wi-Fi Bluetooth
+- [ ] Ethernet Monterey
+- [x] Ethernet Big Sur
 - [x] Sleep
 - [x] Supplementary updates (update your OpenCore EFI, kexts and patches first!)
  
