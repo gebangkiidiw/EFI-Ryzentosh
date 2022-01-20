@@ -3,7 +3,7 @@
 
 <img src="pic/big-sur.png" width="150"/>
 
-# Ryzentosh Big Sur & Monterey Beta
+# Ryzentosh Big Sur & Monterey
 ##### Download EFI: [Releases](https://github.com/GebangKiidiw/EFI-Ryzentosh/releases)
 
 Hackintosh EFI for AMD Ryzen 5 1600; RX570.
