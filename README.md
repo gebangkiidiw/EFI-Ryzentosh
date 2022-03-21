@@ -39,7 +39,7 @@ Hackintosh EFI for AMD Ryzen 5 1600; RX570.
 - [x] iMessage / FaceTime / iCloud
 - [x] FileVault
 - [x] Wi-Fi Bluetooth
-- [ ] Ethernet Monterey
+- [x] Ethernet Monterey
 - [x] Ethernet Big Sur
 - [x] Sleep
 - [x] Supplementary updates (update your OpenCore EFI, kexts and patches first!)
@@ -53,3 +53,6 @@ Hackintosh EFI for AMD Ryzen 5 1600; RX570.
 ## Screenshot
 ![BIG](pic/home.png)
 ![BIG](pic/montereyhome.png)
+
+## Contact
+ - [Contact Us](https://www.abangjoss.com/p/contact.html)
